@@ -1,0 +1,26 @@
+{
+  "name": "raspberry-nodejs",
+  "version": "1.0.0",
+  "description": "Personal experimental project for fooling around with the Raspberry and Node.js",
+  "main": "node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WWWillems/raspberry-nodejs.git"
+  },
+  "keywords": [
+    "raspberry",
+    "node"
+  ],
+  "author": "WWWillems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WWWillems/raspberry-nodejs/issues"
+  },
+  "homepage": "https://github.com/WWWillems/raspberry-nodejs#readme",
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
+}
